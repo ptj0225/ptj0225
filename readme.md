@@ -2,6 +2,8 @@
 
 I want to become an AI/ML engineer in the near future!
 
+E-mail : ptj0225@konkuk.ac.kr
+
 ## 💻 Language, Framework
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
