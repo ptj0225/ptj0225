@@ -18,10 +18,22 @@ KonKuk Univ. Mechanical engineering - 2017.03 ~ 2023.08 (expectant graduation)
 ## 🏆 Compitition
 
 DACON-포디블록 구조 추출 AI 경진대회 / Ranked in 18 of 461
-[Link](https://dacon.io/competitions/official/236046/overview/description)
+[Main Page](https://dacon.io/competitions/official/236046/overview/description)
+[Github](https://github.com/ptj0225/DACON_4DBLOCK)
 
 DACON-제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회(채용 연계형) / Ranked in 18 of 449
-[Link](https://dacon.io/competitions/official/236064/overview/description)
+[Main Page](https://dacon.io/competitions/official/236064/overview/description)
+[Github](https://github.com/ptj0225/DACON-CAR_CRASH)
+
+## 🚀 Toy Projects
+
+Super-Resolution GAN
+[Github](https://github.com/ptj0225/SRGAN)
+![image](https://user-images.githubusercontent.com/79400787/228416702-7bef58f1-edf9-4690-a8c2-4db1fdbb9ba9.png)
+
+Enhanced Super-Resolution GAN
+[Github](https://github.com/ptj0225/ESRGAN)
+![image](https://user-images.githubusercontent.com/79400787/228416828-c2d824d8-7766-4251-914b-51e9abc498da.png)
 
 ## 🧐 Interested
 
