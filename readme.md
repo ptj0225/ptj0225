@@ -33,6 +33,7 @@ KonKuk Univ. Mechanical engineering - 2017.03 ~ 2023.08 (expectant graduation)
 Make LR(Low Resilution) image to SR(Super Resolution) image.
 
 ![image](https://user-images.githubusercontent.com/79400787/228416702-7bef58f1-edf9-4690-a8c2-4db1fdbb9ba9.png)
+![image](https://user-images.githubusercontent.com/79400787/228418231-4727e6a3-c194-465c-af23-38d47ad98645.png)
 
 ### **ESRGAN(Enhanced Super-Resolution GAN)**
 [Github](https://github.com/ptj0225/ESRGAN)
@@ -41,6 +42,8 @@ Imporved from **Super-Resolution GAN**.
 This ESRGAN Model not only making LR image to SR image also remove blur, remove jpeg effect, and faded effect.
 
 ![image](https://user-images.githubusercontent.com/79400787/228416828-c2d824d8-7766-4251-914b-51e9abc498da.png)
+![image](https://user-images.githubusercontent.com/79400787/228418184-00d15c29-a69a-4229-a188-0876c3971984.png)
+
 
 ## 🧐 Interested
 
