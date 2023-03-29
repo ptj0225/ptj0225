@@ -17,22 +17,29 @@ KonKuk Univ. Mechanical engineering - 2017.03 ~ 2023.08 (expectant graduation)
 
 ## 🏆 Compitition
 
-DACON-포디블록 구조 추출 AI 경진대회 / Ranked in 18 of 461
+**DACON-포디블록 구조 추출 AI 경진대회 / Ranked in 18 of 461**
 [Main Page](https://dacon.io/competitions/official/236046/overview/description)
 [Github](https://github.com/ptj0225/DACON_4DBLOCK)
 
-DACON-제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회(채용 연계형) / Ranked in 18 of 449
+**DACON-제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회(채용 연계형) / Ranked in 18 of 449**
 [Main Page](https://dacon.io/competitions/official/236064/overview/description)
 [Github](https://github.com/ptj0225/DACON-CAR_CRASH)
 
 ## 🚀 Toy Projects
 
-Super-Resolution GAN
+**SRGAN(Super-Resolution GAN)**
 [Github](https://github.com/ptj0225/SRGAN)
+
+Make LR(Low Resilution) image to SR(Super Resolution) image.
+
 ![image](https://user-images.githubusercontent.com/79400787/228416702-7bef58f1-edf9-4690-a8c2-4db1fdbb9ba9.png)
 
-Enhanced Super-Resolution GAN
+**ESRGAN(Enhanced Super-Resolution GAN)**
 [Github](https://github.com/ptj0225/ESRGAN)
+
+Imporved from **Super-Resolution GAN**.
+This ESRGAN Model not only making LR image to SR image also remove blur, remove jpeg effect, and faded effect.
+
 ![image](https://user-images.githubusercontent.com/79400787/228416828-c2d824d8-7766-4251-914b-51e9abc498da.png)
 
 ## 🧐 Interested
